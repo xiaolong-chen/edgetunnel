@@ -1,9 +1,9 @@
 name: Obfuscate and Commit
 
 on:
-    push:
-        paths:
-            - 'src/worker-vless.js'
+    # push:
+    #     paths:
+    #         - 'src/worker-vless.js'
     workflow_dispatch:
 
 jobs:
